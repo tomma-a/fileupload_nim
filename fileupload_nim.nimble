@@ -12,3 +12,4 @@ bin           = @["fileupload_nim"]
 
 requires "nim >= 1.6.10"
 requires "jester >= 0.5.0"
+requires "zippy >= 0.10.6"
